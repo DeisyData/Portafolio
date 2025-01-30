@@ -9,7 +9,7 @@
 * No supervisado
   - kmeans (Marketing) 
 
-  # Opción 2. Por sector
+ # Opción 2. Por sector
 
 * Financiero - Empresarial
 * Mercadeo - 
@@ -19,8 +19,8 @@
 * Clasificación de imagenes
 
 ## NLP
-* Analisis de sentimientos
-* N-Gramas IDeas principales a partir de N-Gram
+* (NLP) Analisis de sentimientos
+* (NLP) N-Gramas IDeas principales a partir de N-Gram
 
 ## Generativa 
 * Fine tuning
