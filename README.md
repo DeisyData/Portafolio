@@ -2,20 +2,13 @@
 
 ## Machine Learning 
 
- # Opción 1. Por tipo de aprendizaje
 * Supervisado
   - Clasificacion (Finanzas)
   - Regresión (Finanzas) 
 * No supervisado
   - kmeans (Marketing) 
 
- # Opción 2. Por sector
-
-* Financiero - Empresarial
-* Mercadeo - 
-
 ## Deep Learning - Neural Network 
-
 * Clasificación de imagenes
 
 ## NLP
@@ -24,7 +17,6 @@
 
 ## Generativa 
 * Fine tuning
-
 
 ## Integración con API 
 * Bot conversacionales
