@@ -3,8 +3,8 @@
 ## Machine Learning 
 
 * Supervisado
-  - Clasificacion (Finanzas)
-  - Regresión (Finanzas) 
+  - Clasificacion (Finanzas) : Proyecto de bancarrota ( Resaltar el preprosamiento de los datos) 
+  - Regresión (Finanzas) : Proyecto de prediciión de ventas  ( Resaltar el preprosamiento de los datos) 
 * No supervisado
   - kmeans (Marketing) 
 
