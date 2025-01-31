@@ -15,7 +15,7 @@
 
 ## NLP
 * (NLP) Analisis de sentimientos
-* (NLP) N-Gramas IDeas principales a partir de N-Gram
+* (OK)(NLP) N-Gramas IDeas principales a partir de N-Gram (1)
 
 ## Generative AI
 * Fine tuning
