@@ -20,9 +20,9 @@
 
 ## Integración con API 
 * Bot conversacionales
-- OpenAI
-- AWS
-- Wapp
-- Modelo locales
-- Proyecto Integración WebScrapping
+  - OpenAI
+  - AWS
+  - Wapp
+  - Modelo locales
+  - Proyecto Integración WebScrapping
 
