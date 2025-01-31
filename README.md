@@ -20,12 +20,14 @@
 ## Generative AI
 * Fine tuning
 
-## Integración con API 
+## API Integration
 
+* Train
+  - (OK) Huggingface (1)
 * Bot conversacionales
   - OpenAI
   - AWS
   - Wapp
-  - Modelo locales
+  - (OK) Telegram -Modelo locales (1)
   - Proyecto Integración WebScrapping
 
