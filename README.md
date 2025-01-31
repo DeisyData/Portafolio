@@ -8,17 +8,20 @@
 * No supervisado
   - kmeans (Marketing) 
 
-## Deep Learning - Neural Network 
+## Neural Network
+* 
+## Deep Learning  
 * Clasificación de imagenes
 
 ## NLP
 * (NLP) Analisis de sentimientos
 * (NLP) N-Gramas IDeas principales a partir de N-Gram
 
-## Generativa 
+## Generative AI
 * Fine tuning
 
 ## Integración con API 
+
 * Bot conversacionales
   - OpenAI
   - AWS
