@@ -22,7 +22,7 @@
 
 ## API Integration
 
-* Train
+* Single-Model Approach
   - (OK) Huggingface (1)
 * Bot conversacionales
   - OpenAI
